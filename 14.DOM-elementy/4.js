@@ -1,0 +1,1 @@
+document.getElementById('spanText').innerText = 'any';

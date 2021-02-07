@@ -1,9 +1,8 @@
 #### Zadanie 1
 
-Wpisz w consoli następującą instrukcję:
+Console.log("Twoje imię");
 
-```JavaScript
-console.log("Twoje imię");
+
 ```
 
 #### Zadanie 2
